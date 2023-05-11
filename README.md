@@ -1,5 +1,4 @@
 ### Hi there, I'm Hristo Markov
-Good to see, you're back ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.Hmarkov)
 [![Linkedin: Hristo](https://img.shields.io/badge/-Hristo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hristo-markov/)](https://www.linkedin.com/in/hristo-markov/)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
