@@ -3,7 +3,6 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - Currently Software Developer @SAP 
-- 🖥 Full-stack Software Developer
 - 🎓 UEA grad, class of 2022
 - 🍕 Fun fact i love debugging! 
 
