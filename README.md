@@ -7,5 +7,4 @@
 - 🎓 UEA grad, class of 2022
 - 🍕 Fun fact i love debugging! 
 
-# <a href="https://play.google.com/store/apps/developer?id=H.Markov&hl=en&gl=US">Mobile Games</a><br>
 # <a href="https://chrome.google.com/webstore/search/Hristo%20Markov?_category=extensions">Chrome Extensions</a>
